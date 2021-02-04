@@ -1,5 +1,6 @@
 {
-  "inquiryMiniStatementRespHeader": {
+  "posts":{
+    "inquiryMiniStatementRespHeader": {
     "responseCode": 0,
     "responseDesc":"success",
     "wsRefId":"12345678"
@@ -13,5 +14,6 @@
       "transTime": "12:12:02","transSeqNo": 0,"transRefId": "456"
       }
     ]
+  }
   }
 }
