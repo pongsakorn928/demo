@@ -1,0 +1,17 @@
+{
+  "inquiryMiniStatementRespHeader": {
+    "responseCode": 0,
+    "responseDesc":"success",
+    "wsRefId":"12345678"
+  },
+  "inquiryMiniStatementRespRecs":{
+    "inquiryMiniStatementRespRec":[
+      {"transAmt": 0,"transCmt": "comment","transCode": "Transaction Code","transDate": "2021-02-03",
+      "transTime": "12:12:02","transSeqNo": 0,"transRefId": "123"
+      },
+      {"transAmt": 0,"transCmt": "comment","transCode": "Transaction Code","transDate": "2021-02-03",
+      "transTime": "12:12:02","transSeqNo": 0,"transRefId": "456"
+      }
+    ]
+  }
+}
